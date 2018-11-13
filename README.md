@@ -1,1 +1,4 @@
 # testgcx
+
+
+print hello word
